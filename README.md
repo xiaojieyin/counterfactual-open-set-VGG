@@ -1,6 +1,6 @@
 # counterfactual-open-set-VGG
 
-Installation and Usage
+Code for OpenMax, G-OpenMax, OSRCI
 
 ## prepare the dataset as follows
 ```
