@@ -1,0 +1,22 @@
+{
+  "batch_size": 64,
+  "beta1": 0.5,
+  "cf_distance_weight": 1,
+  "cf_gan_scale": 4,
+  "cf_max_iters": 100,
+  "cf_speed": 0.1,
+  "dataset": "/home/sdb2/yinxiaojie/datasets/CUB",
+  "comparison_dataset": "/home/sdb2/yinxiaojie/datasets/CUB",
+  "hypothesis": "Example run on CUB",
+  "delete_background": false,
+  "discriminator_weight": 0.01,
+  "generator_weight": 0.01,
+  "latent_size": 128,
+  "random_horizontal_flip": false,
+  "reconstruction_weight": 1.0,
+  "weight_decay": 0.0,
+  "lr": 1e-5,
+  "data_dir": "/home/sdb2/yinxiaojie/datasets/CUB",
+  "seed": 0,
+  "num_classes": 150
+}
